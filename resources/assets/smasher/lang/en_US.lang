@@ -1,0 +1,14 @@
+container.smasher=Smasher
+
+tile.smasher:smasher.name=Smasher
+
+itemGroup.Smasher=Smasher
+
+item.smasher:speed_upgrade.name=Smashing Speed Upgrade
+item.smasher:pulverized_iron.name=Pulverized Iron
+item.smasher:pulverized_gold.name=Pulverized Gold
+
+translatable.upgrade.max_upgrade_count=Maximum Upgrades for Smashers: %d
+translatable.upgrade.speed_upgrade_tooltip_increase=Increases the smashing speed by %f%%
+translatable.upgrade.speed_upgrade_tooltip_fuel=Increases fuel consumption by %f%%
+translatable.upgrade.upgrades_disabled=§4ALL THE UPGRADES HAVE BEEN DISABLED. THIS WILL NOT WORK!

@@ -1,0 +1,10 @@
+{
+	"smash_sound": {
+		"category": "blocks",
+		"sounds": [{
+				"name": "smasher:smash_sound",
+				"stream": false
+			}
+		]
+	}
+}

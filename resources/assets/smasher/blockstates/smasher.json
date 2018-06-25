@@ -1,0 +1,18 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube-all",
+		"transform": "forge:default-block"
+	},
+    "variants": {
+        "active=false,facing=north": { "model": "smasher:smasher" },
+        "active=false,facing=south": { "model": "smasher:smasher", "y": 180 },
+        "active=false,facing=west":  { "model": "smasher:smasher", "y": 270 },
+        "active=false,facing=east":  { "model": "smasher:smasher", "y": 90 },
+        "active=true,facing=north": { "model": "smasher:lit_smasher" },
+        "active=true,facing=south": { "model": "smasher:lit_smasher", "y": 180 },
+        "active=true,facing=west":  { "model": "smasher:lit_smasher", "y": 270 },
+        "active=true,facing=east":  { "model": "smasher:lit_smasher", "y": 90 },
+		"inventory": { "model": "smasher:smasher" }
+    }
+}
