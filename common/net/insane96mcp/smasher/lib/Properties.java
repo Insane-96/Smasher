@@ -26,6 +26,7 @@ public class Properties {
 	        "minecraft:stone:0,minecraft:cobblestone,0.075,550",
 	        "minecraft:cobblestone:0,minecraft:gravel,0.1,400",
 	        "minecraft:gravel:0,minecraft:sand,0.1,250",
+	        "minecraft:flint:0,minecraft:gunpowder,0.05,150",
 	        "minecraft:stone:2,minecraft:stone:1,0.0,550",
 	        "minecraft:stone:4,minecraft:stone:3,0.0,550",
 	        "minecraft:stone:6,minecraft:stone:5,0.0,550",
